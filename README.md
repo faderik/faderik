@@ -1,16 +1,22 @@
-### Hi there 👋
+## Hi, It's Faderik 👋
 
-<!--
-**faderik/faderik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Mohammad Faderik 'Izzul Haq (Erik). Iam 20th and currently based in Indonesia. Currently welcome to any projects 📩
 
-Here are some ideas to get you started:
+<a href="https://github.com/faderik">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=faderik&count_private=true&show_icons=true&hide=prs,issues&include_all_commits=true" />
+</a>
+<br>
+<br>
+<a href="https://github.com/faderik">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faderik&layout=compact&langs_count=10&show_icons=true" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<br>
+
+- 🔭 I’m currently working on `robotic development`, `frontend development`, `laravel projects`, `mobile development`
+- 🌱 I’m currently learning `opencv`, `devops`, `flutter`, `typescript`, `docker`
+- 📫 Contact me at : erikfaderik@gmail.com
+- 🌐 FullOfMe : https://faderik.com
+- ⚡ Fun fact: I am moslem 😁
+
